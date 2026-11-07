@@ -1,0 +1,16 @@
+idx,premise,hypothesis,predicted_label,true_label
+30,The tech giant Apple was recently sued by a small European startup over alleged patent infringements regarding battery optimization.,Apple sued a small European startup over patent infringements.,entailment,not_entailment
+31,"If the government passes the new environmental bill, corporate carbon taxes will rise by 25% starting next year.",Corporate carbon taxes have risen by 25%.,not_entailment,not_entailment
+32,A severe dearth of precipitation has heavily exacerbated the aridity of the region's primary agricultural zones.,A lack of rain has made the farming areas drier.,entailment,entailment
+33,"The CEO fully intended to step down in March, but the board convinced her to remain in her position until the end of the fiscal year.",The CEO resigned in March.,not_entailment,not_entailment
+34,Several prominent members of the 50-person choir fell severely ill during the second leg of their European tour.,Every member of the choir became sick during the tour.,not_entailment,not_entailment
+35,"The president, who had previously been a vocal opponent of the international trade agreement, announced his full support for it on Friday morning.",The president has always supported the international trade agreement.,not_entailment,not_entailment
+36,It is hardly the case that the newly implemented software update is entirely devoid of critical bugs.,The new software update contains bugs.,entailment,entailment
+37,Many ancient scholars and civilizations mistakenly believed that the Earth sat stationary at the exact center of the universe.,The Earth is at the exact center of the universe.,not_entailment,not_entailment
+38,"The pharmaceutical company's profits exactly doubled, surging from $2 million in 2022 to $4 million in 2023.",The pharmaceutical company made $4 million in profit in 2023.,entailment,entailment
+39,The patient's condition continues to rapidly deteriorate despite the medical team's aggressive treatment protocol.,The aggressive treatment protocol improved the patient's condition.,not_entailment,not_entailment
+40,The suspect narrowly avoided a prison sentence because the prosecution failed to produce the murder weapon during the trial.,The prosecution successfully produced the murder weapon in court.,not_entailment,not_entailment
+41,"Despite being an incredibly popular local institution for decades, the beloved corner bakery was forced to close due to rising rent costs.",The bakery is currently open and popular.,not_entailment,not_entailment
+42,The protagonist of the newly published novel is an elderly man who suffers from chronic insomnia and sudden memory loss.,The main character of the book has trouble sleeping and remembering things.,entailment,entailment
+43,The local police department confirmed that the rare diamond was stolen by a highly organized group of international thieves.,A highly organized group of international thieves stole the rare diamond.,entailment,entailment
+44,"Although the museum initially planned to open the new Egyptian exhibit on Monday, construction delays pushed the opening back to Thursday.",The new Egyptian exhibit opened on Monday.,not_entailment,not_entailment
