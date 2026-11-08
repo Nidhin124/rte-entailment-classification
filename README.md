@@ -10,7 +10,7 @@ tags:
 - sequence-classification
 ---
 
-# Model Card for CS6315E RTE LoRA Adapter
+# Model Card for RTE LoRA Adapter
 
 This is a Parameter-Efficient Fine-Tuning (PEFT) adapter built on top of `microsoft/deberta-v3-base`, designed specifically for the Recognizing Textual Entailment (RTE) challenge. It uses Low-Rank Adaptation (LoRA) to achieve high accuracy while operating strictly within a 4GB VRAM hardware constraint.
 
