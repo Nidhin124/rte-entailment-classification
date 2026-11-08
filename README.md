@@ -28,7 +28,7 @@ This model classifies sentence pairs (premise and hypothesis) into two categorie
 
 ### Model Sources 
 
-- **Repository:** Local submission for CS6315E
+- **Repository:** rte-entailment-classification
 
 ## Uses
 
